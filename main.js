@@ -1,3 +1,4 @@
+//dibawah ini sintax membuat tong sampah 3
 var myCanvas = document.getElementById('canvas')
 var contex = myCanvas.getContext('2d');
 myCanvas.width=myCanvas.scrollWidth;
