@@ -69,7 +69,7 @@ contex.translate(313,-70); //translate to rectangle center
 contex.rotate(Math.PI/4); //rotate
 contex.translate(-99, -330); //translate back
 
-// handle tutup sampah 3 copy
+// handle tutup sampah
 //draw black rect
 contex.fillStyle='black';
 contex.fillRect(423, 597, panjangPP3, tinggiPP3);
