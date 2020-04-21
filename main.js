@@ -17,29 +17,29 @@ var tinggiPP2 = 30;
 contex.fillStyle='orange';
 contex.fillRect(10, 320, panjangPP2, tinggiPP2);
 
-// tong sampah 1
+// tempat sampah 1
 var panjangPP1 = 100;
 var tinggiPP1 = 150;
 contex.fillStyle='yellow';
 contex.fillRect(10, 350, panjangPP1, tinggiPP1);
 
-// handle tutup sampah 1 copy
+// handle tutup sampah 2
 contex.fillStyle='black';
 contex.fillRect(185, 318, panjangPP3, tinggiPP3);
 
-// tutup sampah 2 copy
+// tutup sampah 2 
 // draw orange rect, membuat badan tempat sampah menggunakan rectangle
 var panjangPP4 = 81;
 var tinggiPP4 = 15;
 contex.fillStyle='orange';
 contex.fillRect(150, 335, panjangPP4, tinggiPP4)
 
-// membuat tong sampah 3
+// membuat tong sampah 2
 // draw yellow rect, dibawah ini merupan cara membuat badan tempat sampah 3 menggunakan rectangle
 contex.fillStyle='yellow';
 contex.fillRect(350, 350, panjangPP1, tinggiPP1);
 
-// tong sampah 2
+// tong sampah 3
 // draw yellow rect
 contex.fillStyle='yellow';
 contex.fillRect(150, 350, panjangPP1, tinggiPP1);
